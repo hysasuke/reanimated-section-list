@@ -1,0 +1,24 @@
+{
+  "name": "reanimated-section-list",
+  "version": "1.0.0",
+  "description": "Reanimated section list that supports drag and drop function",
+  "main": "idnex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reanimated",
+    "sectionlist",
+    "drag-and-drop",
+    "dnd"
+  ],
+  "author": "Wenhao Li",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-reanimated": "^2.13.0",
+    "react-native-safe-area-context": "^4.4.1"
+  }
+}
